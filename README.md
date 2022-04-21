@@ -1,4 +1,4 @@
-#LinuxMonitoring-v.1
+# LinuxMonitoring-v.1
 
 ![monitoring](./images/monitoring.png)
 In this project, simple bash scripts are implemented, ranging from displaying messages to the terminal, ending with content analytics in the directory.
